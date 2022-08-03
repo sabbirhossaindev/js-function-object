@@ -29,4 +29,4 @@ console.log(shoppingCart);
 shoppingCart['mouse'] = 29;// step 2
 console.log(shoppingCart);
 shoppingCart[propertyName] = 89;// step 3
-console.log(shoppingCart)
+console.log(shoppingCart);
