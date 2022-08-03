@@ -20,8 +20,8 @@ function add(num1, num2) {
 add(121, 212);
 
 // more explore pramiter kisu number sum
-function sum(a, b, c, d, e,) {
-    console.log(a, b, c, d, e,);
+function sum(a, b, c, d, e) {
+    console.log(a, b, c, d, e);
     var sumAdd = a + b + c + d + e;
     console.log(sumAdd);
 }
